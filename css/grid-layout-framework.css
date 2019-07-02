@@ -13,3 +13,13 @@ body {
     margin: auto;
     padding: 5px;
   }
+  /*TEXT COLOR*/
+  .text-white {
+    color: white;
+  }
+  .text-salmon {
+    color: #e2b162;
+  }
+  .text-lightgray {
+    color: #818181;
+  }
