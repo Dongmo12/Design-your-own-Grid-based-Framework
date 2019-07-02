@@ -7,3 +7,14 @@
     background: white;
     margin: 10px;
   }
+  .developer_item img {
+    width: 200px;
+  }
+  .parent-developer {
+    background: #f3f3f3;
+    width: 100%;
+  }
+  .story-image img {
+    width: 50px;
+    margin-right: 20px;
+  }
