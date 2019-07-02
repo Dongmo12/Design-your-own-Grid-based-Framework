@@ -1,0 +1,9 @@
+.img-main {
+    max-width: 1300px;
+    width: 100%;
+  }
+  .developer_item {
+    flex-basis: 30%;
+    background: white;
+    margin: 10px;
+  }
