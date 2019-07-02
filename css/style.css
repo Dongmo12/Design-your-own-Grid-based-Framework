@@ -34,3 +34,12 @@
   width: 50px;
   margin-right: 20px;
 }
+.read a {
+  text-decoration: underline;
+}
+.read h4 {
+  margin: 100px 0;
+}
+.main_content h3 {
+  padding: 50px 0;
+}
