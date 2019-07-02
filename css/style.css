@@ -43,3 +43,9 @@
 .main_content h3 {
   padding: 50px 0;
 }
+.icons {
+  margin: 20px 150px;
+}
+.icons img {
+  max-width: 200px;
+}
