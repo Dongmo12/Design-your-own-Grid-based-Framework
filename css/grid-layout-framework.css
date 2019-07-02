@@ -13,3 +13,45 @@ body {
     margin: auto;
     padding: 5px;
   }
+  /*SUB CONTAINERS*/
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .col-1 {
+    max-width: 100px;
+  }
+  .col-2 {
+    max-width: 200px;
+  }
+  .col-3 {
+    max-width: 300px;
+  }
+  .col-4 {
+    max-width: 400px;
+  }
+  .col-5 {
+    max-width: 500px;
+  }
+  .col-6 {
+    max-width: 600px;
+  }
+  .col-7 {
+    max-width: 700px;
+  }
+  .col-8 {
+    max-width: 800px;
+  }
+  .col-9 {
+    max-width: 900px;
+  }
+  .col-10 {
+    max-width: 1000px;
+  }
+  .col-11 {
+    max-width: 1100px;
+  }
+  .col-12 {
+    max-width: 1200px;
+  }
