@@ -72,3 +72,49 @@ body {
 .col-12 {
   max-width: 1200px;
 }
+/*HYPERLINKS*/
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 15px;
+  }
+  /*BUTTONS*/
+  .btn-normal {
+    padding: 5px 10px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 2px 2px gray;
+  }
+  .btn-large {
+    font-weight: bold;
+    color: white;
+    border: none;
+    padding: 20px 70px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 2px gray;
+  }
+  .btn-lightblue {
+    background: #6abfc3;
+  }
+  .btn-lightbrown {
+    background: #d3a766;
+  }
+  .btn-green {
+    background: lightgreen;
+  }
+  /*ALIGNMENT*/
+  .center {
+    text-align: center;
+  }
+  .left {
+    text-align: left;
+  }
+  .right {
+    text-align: right;
+  }
+  .justify {
+    text-align: justify;
+  }
