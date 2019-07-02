@@ -1,0 +1,15 @@
+/*CONTAINERS*/
+body {
+    font-family: sans-serif;
+    line-height: 30px;
+  }
+  .full-width {
+    max-width: 1362px;
+    margin: auto;
+    padding: 5px;
+  }
+  .partial-width {
+    max-width: 1000px;
+    margin: auto;
+    padding: 5px;
+  }
