@@ -31,7 +31,7 @@ body {
   background: #f3f3f3;
 }
 /*SUB CONTAINERS*/
-.main {
+.row {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -275,6 +275,18 @@ a {
   .margin-right-10 {
     padding-right: 10px;
   }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
