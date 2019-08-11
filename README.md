@@ -1,4 +1,4 @@
-# grid-based-framework
+# Design your own Grid-based Framework
 In this project, we'll build a css grid based framework.
 
 ## Technologies
